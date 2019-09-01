@@ -4,7 +4,7 @@
   <groupId>com.demo</groupId>
   <artifactId>samplewar</artifactId>
   <packaging>jar</packaging>
-  <version>samplewar_1.2.4</version>
+  <version>samplewar_1.2.5</version>
   <name>Samplewar</name>
   <url>http://maven.apache.org</url>
  <build>
